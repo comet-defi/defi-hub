@@ -1,0 +1,12 @@
+{
+  "tokenName": "Comet",
+  "symbol": "COMET",
+  "listingDate": "1950-01-01",
+  "description": "empty",
+  "website": "https://www.google.com",
+  "additionalInfo": {
+    "totalSupply": "100000000",
+    "decimals": "18",
+    "contractAddress": "empty"
+  }
+}
